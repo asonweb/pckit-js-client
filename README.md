@@ -7,7 +7,7 @@ seajs modules kit
 require
 
 * jquery
-* layer.js
+* layer
 * nice-validator
 * webuploader
 * bootstraptable
