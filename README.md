@@ -1,5 +1,7 @@
 # pckit-js-client
 
+seajs modules kit
+
 [中文](readme.cn.md)
 
 require
