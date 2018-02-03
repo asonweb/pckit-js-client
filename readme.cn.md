@@ -1,9 +1,15 @@
 
 # pckit
 
-中文
-
 seajs模块，包装了常用的模块
+
+依赖
+
+* jquery
+* layer
+* nice-validator
+* webuploader
+* bootstraptable
 
 包含以下模块
 
